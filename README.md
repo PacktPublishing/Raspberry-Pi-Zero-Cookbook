@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/raspberry-pi-zero-cookbook/9781786463852)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1786463857).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Raspberry Pi Zero Cookbook
 This is the code repository for [Raspberry Pi Zero Cookbook](https://www.packtpub.com/hardware-and-creative/raspberry-pi-zero-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786463852), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
